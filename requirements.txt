@@ -1,0 +1,9 @@
+bertopic
+sentence-transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+wordcloud
+nltk
+torch
