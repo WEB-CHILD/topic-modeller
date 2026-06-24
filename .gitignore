@@ -48,6 +48,7 @@ logs/
 # Data files
 *.csv
 data/*.json
+data-output/
 
 # Output files
 *.html
