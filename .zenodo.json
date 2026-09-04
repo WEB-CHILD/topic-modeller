@@ -1,0 +1,61 @@
+{
+  "title": "topic-modeller: A Generic Multilingual Topic Modeling Pipeline",
+  "description": "A generic, metadata-aware topic modeling pipeline built on BERTopic and transformer-based sentence embeddings. Accepts any CSV corpus with a text column and optional metadata (year, url, domain, id, etc.), identifies the main themes across the documents, and produces word clouds, bar charts, heatmaps and metadata breakdowns such as topic share over time or per domain. Supports multilingual corpora, adaptive settings for small and large datasets, batch processing of multiple corpora, and GPU acceleration.",
+  "creators": [
+    {
+      "name": "Jørn Thøgersen",
+      "affiliation": "Aarhus University",
+      "orcid":"0009-0000-8837-1057"
+    },
+    {
+      "name": "Victor Harbo Johnston",
+      "affiliation": "Aarhus University",
+      "orcid": "0000-0003-0087-1220"
+    }
+  ],
+  "keywords": [
+    "digital humanities",
+    "web archives",
+    "digital history",
+    "topic modeling",
+    "BERTopic",
+    "multilingual NLP",
+    "natural language processing",
+    "sentence transformers",
+    "text mining",
+    "data visualisation",
+    "research software"
+  ],
+  "license": {
+    "id": "MIT"
+  },
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/WEB-CHILD/topic-modeller",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/WEB-CHILD/KIDLINK-Topics",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Natural Language Processing",
+      "scheme": "ACM"
+    },
+    {
+      "term": "Digital Humanities",
+      "scheme": "ACM"
+    },
+    {
+      "term": "Topic Modeling",
+      "scheme": "keyword"
+    }
+  ]
+}
