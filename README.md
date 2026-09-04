@@ -1,5 +1,7 @@
 # topic-modeller
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22296669.svg)](https://doi.org/10.5281/zenodo.22296669)
+
 Multilingual topic modeling pipeline based on BERTopic. Accepts any CSV with a `content` column and optional metadata (year, url, domain, id, etc.). Identifies and visualises the main themes across your documents, with support for metadata-aware breakdowns by any column.
 
 Originally developed for [KIDLINK-Topics](https://github.com/WEB-CHILD/KIDLINK-Topics).
